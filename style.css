@@ -107,7 +107,6 @@ body {
     border-bottom: 0.5px solid #ccc;
     display: flex;
     justify-content: flex-end;
-    /* Alinear a la derecha como la referencia */
     gap: 10px;
     font-size: 11px;
     color: var(--header-blue);
@@ -232,4 +231,5 @@ ul {
         print-color-adjust: exact;
         -webkit-print-color-adjust: exact;
     }
+
 }
